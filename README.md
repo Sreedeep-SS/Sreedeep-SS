@@ -50,12 +50,12 @@ I wrangle Python, talk to AIs, and build backend systems that (mostly) don’t e
 
 
 ## 📈 GitHub Stats
-
-![Sreedeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreedeep-SS&show_icons=true&theme=tokyonight)
+<!--
+![Sreedeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreedeep-SS&show_icons=true&theme=tokyonight) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreedeep-SS&layout=compact&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sreedeep-SS&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sreedeep-SS&theme=github-compact)
 
 ---
 
