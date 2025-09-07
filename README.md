@@ -86,7 +86,7 @@ I wrangle Python, talk to AIs, and build backend systems that (mostly) don’t e
 - 📫 **How to reach me**: Check the “Let’s Connect” section above — or send a signal via carrier pigeon if you’re into that.
 - ⚡ **Fun fact**: I’m all about travel, movies, music, and memes — basically, the full developer dopamine diet. Also, I take Football(the sport and the videogames) way too seriously (but in a fun way). 🎮⚽✈️🎬🎧
 
-## 🖼️ Meme of the Month
+## 🖼️ Meme of the Year
 
 > *"When AI is taking over dev jobs but atleast I get to make Ghibli-style pictures of myself"*
 >
