@@ -73,9 +73,7 @@ I wrangle Python, talk to AIs, and build backend systems that (mostly) don’t e
 
 ## 🤝 Let's Connect
 - 📧 Email: sreedeep.dfd@gmail.com
-- 🌐 Portfolio: [sreedeep.tech](https://sreedeep.tech) [Something new is getting cooked]
 - 🔗 LinkedIn: [linkedin.com/in/sreedeep-ss](https://linkedin.com/in/sreedeep-ss)
-- 🐙 GitHub: [github.com/Sreedeep-SS](https://github.com/Sreedeep-SS)
 
 ## 🎯 The Extra Bits
 
